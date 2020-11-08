@@ -33,17 +33,14 @@ Agar tidak membuat baris baru menggunakan end='' (baris)
 Penggunaan print() untuk membuat baris baru (kolom)
   print("{0:>5}".format(tab), end='')
 print()    
-Maka program yang di hasil seperti berikut
 
-tampil 1
 
 Latihan 2
 Saya diberikan tugas untuk membuat program :
 Tampilkan n bilangan acak yang lebih kecil dari 0.5
 Nilai n diisi pada saat runtime
-Seperti pada gambar berikut
+S
 
-output 2
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di Source Code
 
@@ -71,4 +68,4 @@ angkaDec = random.uniform(0, 0.5)
     print("Data ke", i, " = ", angkaDec)
 Maka program yang dihasilkan akan seperti berikut
 
-tampil 2
+
